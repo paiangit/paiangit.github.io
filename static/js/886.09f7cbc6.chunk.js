@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkeasy_effect=self.webpackChunkeasy_effect||[]).push([[886],{2886:function(e,n,f){f.r(n);var t=f(9897),u=f(9628),c=f(6498);function s(){return(0,c.jsx)("div",{children:(0,c.jsx)(u.j3,{})})}n.default=t.memo(s,(function(){return!1}))}}]);
+//# sourceMappingURL=886.09f7cbc6.chunk.js.map
