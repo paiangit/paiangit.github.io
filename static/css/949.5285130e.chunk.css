@@ -1,0 +1,17 @@
+.NotFoundPage_not-found-page__ycBLY {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.NotFoundPage_not-found-page__ycBLY .anticon-cloud {
+  font-size: 300px;
+  color: #d3022d;
+  opacity: 0.2;
+  margin-left: -100px;
+}
+.NotFoundPage_info__9IXUJ {
+  color: #d3022d;
+  font-size: 24px;
+}
+
