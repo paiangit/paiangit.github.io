@@ -8,7 +8,7 @@
   margin-right: 4px;
   margin-top: 6px;
   font-size: 22px;
-  color: #ff0033;
+  color: #f03;
 }
 
 .Footer_footer__O9laj {
@@ -17,15 +17,16 @@
   color: rgba(131, 126, 126, 0.7);
   font-size: 13px;
 }
-.Footer_link__FRsbi {
+.Footer_external-link__XyC-1 {
   color: rgba(131, 126, 126, 0.7);
   text-decoration: underline;
 }
-.Footer_link__FRsbi:hover {
-  color: #D30245;
+.Footer_external-link__XyC-1:hover {
+  color: #d30245;
   text-decoration: underline;
 }
 
+/* stylelint-disable-next-line max-line-length */
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable */
@@ -77,7 +78,7 @@
   font-size: 20px;
 }
 .anticon-arrow-right {
-  margin-left: 5px!important;
+  margin-left: 5px !important;
 }
 @media (max-width: 1024px) {
   .MainPage_brief__CCZu8 {
